@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EZBank loans related prod APIs "
+  contactDetails:
+    name: "Moff Gideon - Product Owner"
+    email: "moffgideon@EZBank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EZBank loans related QA APIs "
+  contactDetails:
+    name: "Kane - QA Lead"
+    email: "kane@EZBank.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467

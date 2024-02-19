@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EZBank accounts related prod APIs "
+  contactDetails:
+    name: "Din Djarin - Product Owner"
+    email: "dindjarin@EZBank.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
