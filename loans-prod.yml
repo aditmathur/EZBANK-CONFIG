@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EZBank loans related production APIs "
+  message: "Welcome to EZBank loans related webhook APIs "
   contactDetails:
     name: "Moff Gideon - Product Owner"
     email: "moffgideon@EZBank.com"
